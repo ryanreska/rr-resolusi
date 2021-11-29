@@ -3,6 +3,7 @@ RENCANA BELAJAR
 - cara membuat website
   * Belajar PHP
   * Belajar WordPress
+- Struktur Data Dasar
 - mengembangkan sebuah website
 - membuat reppository kampus
 - belajar editing video
