@@ -2,11 +2,11 @@ RENCANA BELAJAR
 
 - cara membuat website
   * Belajar PHP
-    ~ PHP Framework
-      * Laravel
-  * Belajar WordPress
-- Belajar Framework Javascript
-  * Angular
+   * Belajar WordPress
+    * elementor
 - Struktur Data Dasar
 - mengembangkan sebuah website
 - membuat reppository kampus
+- Struktur Data Dasar
+- belajar editing video
+- Belejar Python
